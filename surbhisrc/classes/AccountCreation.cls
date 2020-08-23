@@ -8,6 +8,7 @@ List<Account> a = new List<Account>();
 for(Account acc:a)
 
 {
+//sample
 
 acc.Name=s;
 
